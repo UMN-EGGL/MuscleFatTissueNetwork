@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*.swn
+*.swm
+Health/*
+Data/*
+.pybiomart.sqlite
+.snakemake/
